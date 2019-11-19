@@ -1,0 +1,16 @@
+{
+  "name": "orbiter/middleware-twig",
+  "license": "MIT",
+  "description": "",
+  "require": {
+    "php": ">=7.2",
+    "twig/twig": "^3.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Orbiter\\MiddlewareTwig\\": "src"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
